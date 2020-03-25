@@ -34,7 +34,7 @@ CryptoOctoCat是參考CryptoKitties做的，CryptoKitties之所以會爆紅，�
 ### Sacrific3D
 [Sacrific3D](https://play-dapps.github.io/Sacrific3d/?utm_content=visit-website&utm_source=DappRadar)
 
-<img src="https://github.com/jiaying777/Notes/blob/master/區塊鏈圖/Sacrific3D.png" width=75% >
+<img src="https://github.com/jiaying777/other/blob/master/區塊鏈圖/Sacrific3D.png" width=75% >
 <br>
 Sacrific3D是屬於賭博類的Dapp，每局需要五個玩家參與，可選擇 0.1、0.5、2.5ETH 下注作為祭品獻給眾神，三個彩池是獨立計算的。
 以 0.1ETH 為例子，當第五位玩家下注後，智能合約則根據當前的 block number 生成一個隨機數來選定五位中哪一位犧牲，犧牲的玩家會失去祭品，
@@ -49,7 +49,7 @@ ________________________________________________________________________________
 ### IDEX
 [IDEX](https://idex.market/eth/idex)
 
-<img src="https://github.com/jiaying777/Notes/blob/master/區塊鏈圖/IDEX.png" width=75% >
+<img src="https://github.com/jiaying777/other/blob/master/區塊鏈圖/IDEX.png" width=75% >
 與中心化交易所相比最大的一個區別是，去中心化交易所使用的是智能合約賬戶，資訊公開，保證交易平臺無法從中作梗，
 在整個交易過程中，用戶始終掌握着資產的所有權，也比較不容易受到駭客的攻擊。
 <br>
@@ -60,7 +60,7 @@ ________________________________________________________________________________
 ### CryptoTree
 [CryptoTree](https://www.babaoshu.cn/?utm_source=DappRadar&utm_content=visit-website)
 
-<img src="https://github.com/jiaying777/Notes/blob/master/區塊鏈圖/f7ea4ddc2d85b458f890ebf6f0a41454.png" width=40% >
+<img src="https://github.com/jiaying777/other/blob/master/區塊鏈圖/f7ea4ddc2d85b458f890ebf6f0a41454.png" width=40% >
 八寶樹本身是一種加密數字資產，玩家所付出的時間、勞動、人緣和運氣會影響八寶樹的基因組合，而不同基因組合的價值則由玩家共同決定，
 且八寶樹不會消失，永遠都屬於玩家，性能透明，不能作假，符合區塊鏈中，去中心化、公開透明、不可篡改和共識機制。
 <br>
@@ -70,7 +70,7 @@ ________________________________________________________________________________
 ## 找一個你喜歡的Dapp，說明為什麼你最喜歡這個Dapp?<br>他們用這些特性是有意義的嗎？還是為了區塊鏈而區塊鏈？
 [IPSE](https://www.ipse.io)
 
-<img src="https://github.com/jiaying777/Notes/blob/master/區塊鏈圖/IPSE.png" width=85% >
+<img src="https://github.com/jiaying777/other/blob/master/區塊鏈圖/IPSE.png" width=85% >
 <br>
 IPSE (星際搜尋引擎)，是一個基於IPFS網絡的智能搜尋引擎，利用區塊鏈獨有的去中心化和分布式設計思維，
 幫助用戶快速檢索IPFS (星際文件系統)網絡上的文件，並且利用加密技術，保護用戶隱私。IPSE 是超媒體的搜尋引擎，
