@@ -29,7 +29,12 @@ CryptoOctoCat是參考CryptoKitties做的，CryptoKitties之所以會爆紅，�
 <br>
 <br>
 ## 哪些Dapp(不一定是測試網，也可能是主網）是符合上兩堂課中的性質？
-[DappRadar](https://dappradar.com)
+[DappRadar](https://dappradar.com)<br>
+* 去中心化
+* 公開透明
+* 不可篡改
+* 共識算法
+
 
 ### Sacrific3D
 [Sacrific3D](https://play-dapps.github.io/Sacrific3d/?utm_content=visit-website&utm_source=DappRadar)
