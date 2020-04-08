@@ -47,7 +47,7 @@ contract bankaccount{
         balances[msg.sender] = balances[msg.sender]-transferAmount;
         balances[transferTo] = balances[transferTo]+transferAmount;
         
-        //不能轉帳給自己，也不能轉帳給沒有註，餘額不足也會轉帳失敗
+        //不能轉帳給自己，也不能轉帳給沒有註冊的地址，餘額不足也會轉帳失敗
     }
     
     //餘額查詢
